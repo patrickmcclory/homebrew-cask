@@ -1,6 +1,6 @@
 cask :v1 => 'menubar-colors' do
-  version '1.4.1'
-  sha256 '98f7136e01ac5e8da0d265258100ffda98d5e95f84d86bcb78d3345b2e2f56d6'
+  version '2.1.0'
+  sha256 '29825173a53c015c0eedfeadac77cef3a4d2a563a8a6a6ce905be78acc17a810'
 
   url "https://github.com/nvzqz/menubar-colors/releases/download/v#{version}/Menubar-Colors.zip"
   appcast 'https://github.com/nvzqz/menubar-colors/releases.atom'
